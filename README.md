@@ -124,6 +124,10 @@ flowchart TD
 
 
 ---
+## 📄 View Report
+
+👉 [Click here to view the procurement report](https://your-link-here)
+---
 
 ## 👩‍💻 Author
 
