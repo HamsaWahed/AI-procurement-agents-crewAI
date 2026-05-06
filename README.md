@@ -82,10 +82,10 @@ The system generates a structured procurement report including:
 git clone https://github.com/HamsaWahed/AI-procurement-agents-crewAI.git
 ```
 
-2. Open the notebook:
+2. Open the notebook: notebooks/AI_Agents_using_CrewAI.ipynb
 
 ```bash
-jupyter notebook
+jupyter notebook (notebooks/AI_Agents_using_CrewAI.ipynb)
 ```
 
 3. Run all cells to generate the report.
