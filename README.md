@@ -103,6 +103,20 @@ This project can be extended to:
 * Business intelligence reporting
 
 ---
+## 🏗️ Architecture
+
+```mermaid
+flowchart TD
+    A[User Input] --> B[Search Agent 🔍]
+    B --> C[Filtering Agent 🧹]
+    C --> D[Analysis Agent 📊]
+    D --> E[Recommendation Engine 🧠]
+    E --> F[Report Generator 📝]
+    F --> G[HTML Procurement Report]
+```
+
+
+---
 
 ## 👩‍💻 Author
 
