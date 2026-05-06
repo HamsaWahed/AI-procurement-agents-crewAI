@@ -29,9 +29,16 @@ The system simulates a real-world procurement process for **coffee machines**, i
 
 ```
 .
-├── AI_Agents_using_CrewAI.ipynb   # Main notebook (agents + workflow)
-├── step_4_procurement_report.html # Final generated report
-└── README.md
+project-name/
+│
+├── notebooks/
+│   └── AI_Agents_using_CrewAI.ipynb
+│
+├── reports/
+│   └── step_4_procurement_report.html
+│
+├── README.md
+└── requirements.txt
 ```
 
 ---
