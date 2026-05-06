@@ -126,7 +126,7 @@ flowchart TD
 ---
 ## 📄 View Report
 
-👉 [Click here to view the procurement report](https://your-link-here)
+👉 [Click here to view the procurement report](https://htmlpreview.github.io/?https://github.com/HamsaWahed/AI-procurement-agents-crewAI/blob/main/reports/step_4_procurement_report.html)
 ---
 
 ## 👩‍💻 Author
