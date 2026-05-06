@@ -1,0 +1,4 @@
+crewai==0.28.8
+pandas==1.5.3
+beautifulsoup4==4.12.3
+requests==2.31.0
