@@ -72,7 +72,7 @@ The system generates a structured procurement report including:
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/HamsaWahed/AI-procurement-agents-crewAI.git
 ```
 
 2. Open the notebook:
@@ -106,4 +106,4 @@ This project can be extended to:
 
 ## 👩‍💻 Author
 
-Your Name
+Hamsa Wahed Hamed
